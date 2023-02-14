@@ -1,0 +1,46 @@
+[
+   {
+      "GroupName" : "proximal colon",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseColon_2.json"
+   },
+   {
+      "GroupName" : "transverse colon",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseColon_3.json"
+   },
+   {
+      "GroupName" : "distal colon",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseColon_4.json"
+   },
+   {
+      "GroupName" : "mesenteric zone",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Surfaces",
+      "URL" : "mouseColon_5.json"
+   },
+   {
+      "GroupName" : "colon",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "Type" : "Lines",
+      "URL" : "mouseColon_6.json"
+   },
+   {
+      "Type" : "View",
+      "URL" : "mouseColon_view.json"
+   }
+]
