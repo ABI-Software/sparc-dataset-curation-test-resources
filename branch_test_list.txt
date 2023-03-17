@@ -1,3 +1,4 @@
 no_banner_bad_old_scaffold_annotations
+no_banner_no_scaffold_annotations_II
 no_banner_no_scaffold_annotations
 scaffold_annotations_correct
