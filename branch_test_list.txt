@@ -1,4 +1,5 @@
 no_banner_bad_old_scaffold_annotations
+no_scaffold_annotations_extra_images
 no_scaffold_annotations_multiple_scaffolds
 no_scaffold_annotations_multiple_views
 no_banner_no_scaffold_annotations_II
