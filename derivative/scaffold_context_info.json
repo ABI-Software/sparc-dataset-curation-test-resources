@@ -4,5 +4,22 @@
   "id": "sparc.science.context_data",
   "samples": [],
   "version": "0.1.0",
-  "views": []
+  "views": [
+    {
+      "annotation": "--",
+      "description": "",
+      "id": "View 1",
+      "path": "derivative/rat_brainstem_Layout1_view.json",
+      "sample": "--",
+      "thumbnail": "derivative/rat_brainstem_Layout1_thumbnail.jpeg"
+    },
+    {
+      "annotation": "--",
+      "description": "",
+      "id": "View 2",
+      "path": "derivative/rat_brainstem_Layout2_view.json",
+      "sample": "--",
+      "thumbnail": "derivative/rat_brainstem_Layout2_thumbnail.jpeg"
+    }
+  ]
 }
