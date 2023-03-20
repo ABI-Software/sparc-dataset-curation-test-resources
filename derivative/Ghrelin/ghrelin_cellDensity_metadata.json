@@ -1,0 +1,69 @@
+[
+    {
+        "GroupName": "body of stomach",
+        "MorphColours": false,
+        "MorphNormals": false,
+        "MorphVertices": false,
+        "RegionPath": "",
+        "Type": "Surfaces",
+        "URL": "ghrelin_cellDensity_1.json"
+    },
+    {
+        "GroupName": "fundus of stomach",
+        "MorphColours": false,
+        "MorphNormals": false,
+        "MorphVertices": false,
+        "RegionPath": "",
+        "Type": "Surfaces",
+        "URL": "ghrelin_cellDensity_2.json"
+    },
+    {
+        "GroupName": "cardia of stomach",
+        "MorphColours": false,
+        "MorphNormals": false,
+        "MorphVertices": false,
+        "RegionPath": "",
+        "Type": "Surfaces",
+        "URL": "ghrelin_cellDensity_3.json"
+    },
+    {
+        "GroupName": "duodenum",
+        "MorphColours": false,
+        "MorphNormals": false,
+        "MorphVertices": false,
+        "RegionPath": "",
+        "Type": "Surfaces",
+        "URL": "ghrelin_cellDensity_4.json"
+    },
+    {
+        "GroupName": "esophagus",
+        "MorphColours": false,
+        "MorphNormals": false,
+        "MorphVertices": false,
+        "RegionPath": "",
+        "Type": "Surfaces",
+        "URL": "ghrelin_cellDensity_5.json"
+    },
+    {
+        "GroupName": "pyloric antrum",
+        "MorphColours": false,
+        "MorphNormals": false,
+        "MorphVertices": false,
+        "RegionPath": "",
+        "Type": "Surfaces",
+        "URL": "ghrelin_cellDensity_6.json"
+    },
+    {
+        "GroupName": "pyloric canal",
+        "MorphColours": false,
+        "MorphNormals": false,
+        "MorphVertices": false,
+        "RegionPath": "",
+        "Type": "Surfaces",
+        "URL": "ghrelin_cellDensity_7.json"
+    },
+    {
+        "Type": "View",
+        "URL": "ghrelin_cellDensity_Layout1_view.json"
+    }
+]

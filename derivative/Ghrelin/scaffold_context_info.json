@@ -1,0 +1,28 @@
+{
+  "description": "Distribution of ghrelin is mapped as a distribution field over the gastric fundus and corpus regions of the stomach scaffold. \n\nThe field is a color map scaled across all 4 cell densities (somatostatin, 5-HT, pancreastatin, ghrelin) recorded in this dataset, with a minimum cell density of 25 cell/mm<sup>2</sup> (white) to maximum cell density of 125 cell/mm<sup>2</sup> (red).\n\nThe data is derived from 4 adult human patients undergoing gastric sleeve surgery for obesity and characterized the hormone content of endocrine cells within the mucosal lining of the stomach.",
+  "heading": "Distribution of ghrelin",
+  "id": "sparc.science.context_data",
+  "banner": "derivative\\Ghrelin\\ghrelin_cellDensity_Layout1_thumbnail.jpeg",
+  "samples": [
+    {
+      "annotation": "",
+      "description": "Distribution of ghrelin stained cells in fundus and corpus.",
+      "doi": "https://doi.org/10.26275/ppgj-qqpf",
+      "heading": "Ghrelin cell density",
+      "id": "Sample 1",
+      "path": "derivative\\cellDensityHumanEEC.csv",
+      "view": "View 1"
+    }
+  ],
+  "version": "0.1.0",
+  "views": [
+    {
+      "annotation": "--",
+      "description": "Distribution of ghrelin stained cells in fundus and corpus regions.",
+      "id": "View 1",
+      "path": "derivative\\Ghrelin\\ghrelin_cellDensity_Layout1_view.json",
+      "sample": "Sample 1",
+      "thumbnail": "derivative\\Ghrelin\\ghrelin_cellDensity_Layout1_thumbnail.jpeg"
+    }
+  ]
+}
