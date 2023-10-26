@@ -6,3 +6,4 @@ no_scaffold_annotations_multiple_views
 no_banner_no_scaffold_annotations_II
 no_banner_no_scaffold_annotations
 scaffold_annotations_correct
+no_annotations_multiple_views_context_annotation
