@@ -1,25 +1,27 @@
 {
-  "description": "Annotated rat brainstem scaffold available for registration of segmented neural anatomical-functional mapping of neural circuits.",
-  "heading": "Generic rat brainstem scaffold",
+  "banner": "primary/rat_brainstem_Layout1_thumbnail.jpeg",
+  "description": "A descriptiong of the rat brainstem scaffold.",
+  "heading": "Rat brainstem scaffold",
   "id": "sparc.science.context_data",
+  "metadata": "derivative/rat_brainstem_metadata.json",
   "samples": [],
-  "version": "0.1.0",
+  "version": "0.2.0",
   "views": [
     {
       "annotation": "--",
-      "description": "",
+      "description": "This view looks at the whole brain stem from the left side.",
       "id": "View 1",
-      "path": "derivative/rat_brainstem_Layout1_view.json",
-      "sample": "--",
-      "thumbnail": "derivative/rat_brainstem_Layout1_thumbnail.jpeg"
-    },
-    {
-      "annotation": "--",
-      "description": "",
-      "id": "View 2",
       "path": "derivative/rat_brainstem_Layout2_view.json",
       "sample": "--",
       "thumbnail": "derivative/rat_brainstem_Layout2_thumbnail.jpeg"
+    },
+    {
+      "annotation": "--",
+      "description": "A strange view of the rat brainstem.",
+      "id": "View 2",
+      "path": "derivative/rat_brainstem_Layout1_view.json",
+      "sample": "--",
+      "thumbnail": "derivative/rat_brainstem_Layout1_thumbnail.jpeg"
     }
   ]
 }
